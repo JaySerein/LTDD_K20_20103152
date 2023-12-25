@@ -74,7 +74,7 @@ class _SPRegisterCourseState extends State<SPRegisterCourse> {
                       );
                     }
                   },
-                )
+                ),
               ],
             ),
           ),

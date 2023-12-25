@@ -149,7 +149,7 @@ class SPProfile extends StatelessWidget {
                           child: const CustomButton(textButton: "SAVE INFO"))
                       : Container(),
                   const SizedBox(
-                    height: 50,
+                    height: 200,
                   ),
                 ],
               ),

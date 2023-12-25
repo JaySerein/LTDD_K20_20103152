@@ -86,6 +86,7 @@ class _MainPageState extends State<MainPage> {
                       child: Container(
                           color: Colors.blue, child: Center(child: body)),
                     ),
+                    const SizedBox(height: 0),
                   ],
                 ),
               ),
